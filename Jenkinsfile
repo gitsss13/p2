@@ -16,6 +16,5 @@ steps {
 archiveArtifacts artifacts: 'report.txt', fingerprint: true
 }
 }
-2
 }
 }
